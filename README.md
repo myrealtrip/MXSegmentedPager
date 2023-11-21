@@ -152,3 +152,6 @@ Documentation is available through [CocoaDocs](http://cocoadocs.org/docsets/MXSe
 ## License
                                                
 MXSegmentedPager is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
+
+test
+
