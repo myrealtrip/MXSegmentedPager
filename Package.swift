@@ -20,7 +20,7 @@ let package = Package(
                 "MXPagerView",
                 "MXSegmentedControl",
                 "MXParallaxHeader"
-            ], path: "MXSegmentedPager"
+            ]
         )
     ],
     swiftLanguageVersions: [.v5,.v4_2],
