@@ -9,9 +9,9 @@ let package = Package(
                  targets: ["MXSegmentedPager"])
     ],
     dependencies: [
-        .package(url: "https://github.com/maxep/MXPagerView.git", from: "0.2.0"),
-        .package(url: "https://github.com/maxep/MXSegmentedControl.git", from: "1.1.0"),
-        .package(url: "https://github.com/maxep/MXParallaxHeader.git", from: "1.0.0"),
+//        .package(url: "https://github.com/maxep/MXPagerView.git", from: "0.2.0"),
+//        .package(url: "https://github.com/maxep/MXSegmentedControl.git", from: "1.1.0"),
+//        .package(url: "https://github.com/maxep/MXParallaxHeader.git", from: "1.0.0"),
     ],
     targets: [
         .target(
@@ -22,7 +22,5 @@ let package = Package(
                 "MXParallaxHeader"
             ]
         )
-    ],
-    swiftLanguageVersions: [.v5,.v4_2],
-    cLanguageStandard: .c11
+    ]
 )
