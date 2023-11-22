@@ -2,6 +2,15 @@
   "object": {
     "pins": [
       {
+        "package": "MXPagerView",
+        "repositoryURL": "https://github.com/myrealtrip/MXPagerView.git",
+        "state": {
+          "branch": null,
+          "revision": "dc908a2f8f63abd2e11b1dcdfa50cad3e3337903",
+          "version": "0.2.0"
+        }
+      },
+      {
         "package": "MXParallaxHeader",
         "repositoryURL": "https://github.com/myrealtrip/MXParallaxHeader.git",
         "state": {
