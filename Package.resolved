@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MXParallaxHeader",
+        "repositoryURL": "https://github.com/myrealtrip/MXParallaxHeader.git",
+        "state": {
+          "branch": null,
+          "revision": "03ff0ce5185b5e96aa61b14ee2f12ccebb77d036",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "MXSegmentedControl",
+        "repositoryURL": "https://github.com/myrealtrip/MXSegmentedControl.git",
+        "state": {
+          "branch": null,
+          "revision": "4a2d243a425d556019d00c01892fc30644f9d613",
+          "version": "1.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
